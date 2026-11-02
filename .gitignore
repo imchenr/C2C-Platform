@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+__pycache__/
+.pytest_cache/
+backend/.venv/
+backend/campus_market.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+frontend/node_modules/
+frontend/dist/
+.env
+*.log
+
